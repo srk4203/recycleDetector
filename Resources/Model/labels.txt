@@ -1,0 +1,8 @@
+0 Nothing
+1 Cans
+2 Pen
+3 ID Card
+4 Mobile
+5 Chocolate Wrappers
+6 Vegetables
+7 Plastic Bottles
